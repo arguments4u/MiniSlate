@@ -26,7 +26,6 @@ namespace MiniSlate
     /// </summary>
     public partial class Contents : UserControl
     {
-        //
         private static List<string> extensions = new List<string> { ".JPG", ".JPEG", ".BMP", ".PNG", ".GIF", ".ICO" };
         private double scale = 1.0;
         private double x = 0.0;
